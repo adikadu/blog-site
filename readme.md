@@ -1,4 +1,4 @@
-This app beautifully displays the blogs posted on this site. You can post any this by hiting `/compose` route. The app is connected to `mongodb database` so you can see all the blogs posted by the admin.
+This app beautifully displays the blogs posted on this site. You can post any this by hiting `/compose` route. The app is connected to `mongodb database` so you can see all the blogs posted by people.
 
 How to run this app:<br>
     -> If node is not installed then install it.<br>
